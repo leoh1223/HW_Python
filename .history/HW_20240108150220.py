@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 #import tkinter as tk
 plt.close()
-
+w
 # Generate 100 random numbers between 0 and 1
 random_data = np.random.rand(10000)
 
